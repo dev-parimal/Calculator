@@ -1,2 +1,2 @@
 # Calculator
-[Demo Link](https://dev-parimal.github.io/Calculator/index.html)
+[Project Demo](https://dev-parimal.github.io/Calculator/index.html)
